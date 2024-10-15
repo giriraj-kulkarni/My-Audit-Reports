@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-<img src="./logo.pdf" width="400" alt="password-store">
+<img src="./password-store-logo.png" width="400" alt="password-store">
 </p>
 <br/>
 
