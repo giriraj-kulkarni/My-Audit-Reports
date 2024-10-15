@@ -21,7 +21,7 @@ A smart contract application for storing a password. Users should be able to sto
 - [Audit Scope Details](#audit-scope-details)
   - [Roles](#roles)
   - [Create the audit report](#create-the-audit-report)
-- [First Flight Winners](#first-flight-winners)
+
 
 # Getting Started
 
